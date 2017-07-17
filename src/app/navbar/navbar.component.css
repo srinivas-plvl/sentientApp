@@ -1,0 +1,49 @@
+.sub-list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.sub-list ul li {
+    float: left;
+}
+
+.sub-list ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.sub-list ul li a:hover {
+    background-color: #111111;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #d98c15;
+    font-weight: bold;
+    font-size: 14px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: #000 !important;
+     background: #d98c15;
+}
+.navbar-default .navbar-nav .active {
+    color: #000 !important;
+    background: #d98c15;
+}
+.navbar-brand {
+    padding: 8px 15px;
+}
+
+.navbar-right a {
+    padding: 10px 8px
+}
+
+.navbar-right .glyphicon {
+    top: 3px;
+    padding: 0 1px;
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "serial": "at-ssn35",
+    "phase": "C",
+    "status": "active",
+    "state": "Production",
+    "version": "2.5.0",
+    "ctype": "MM3 SSN",
+    "group": "ssn_group"
+  },
+  {
+    "serial": "cll29",
+    "phase": "A",
+    "status": "active",
+    "state": "Production",
+    "version": "2.5.0",
+    "ctype": "MM3 Sierra MC734",
+    "group": "cll29_group"
+  },
+  {
+    "serial": "at-ssn34",
+    "phase": "B",
+    "status": "active",
+    "state": "Production",
+    "version": "2.5.0",
+    "ctype": "MM3 SSN",
+    "group": "ssn_group10"
+  },
+  {
+    "serial": "at-ssn33",
+    "phase": "A",
+    "status": "inactive",
+    "state": "Production",
+    "version": "2.5.0",
+    "ctype": "MM3 SSN",
+    "group": "ssn_group5"
+  },
+  {
+    "serial": "cli37",
+    "phase": "C",
+    "status": "active",
+    "state": "Production",
+    "version": "2.5.0",
+    "ctype": "MM3 Sierra MC734",
+    "group": "ssn_group1"
+  },
+  {
+    "serial": "cli33",
+    "phase": "B",
+    "status": "active",
+    "state": "Production",
+    "version": "2.5.0",
+    "ctype": "MM3 Sierra MC734",
+    "group": "ssn_group10"
+  }
+]

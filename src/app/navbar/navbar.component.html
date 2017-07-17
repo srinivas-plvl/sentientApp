@@ -1,0 +1,25 @@
+
+<div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="../" class="navbar-brand"><img src="assets/sentient.png" alt="sentient"></a>
+        </div>
+
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+             <li ><a [class.active]="applicationService.getPage()=='dashboard'" routerLink="/dashboard" >Dashboard</a></li>
+              <li><a  routerLink="" >Line Monitoring</a></li>
+             <li><a  [class.active]="applicationService.getPage()=='devices'" routerLink="/devicemanagement" >Device Management</a></li>
+            
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+            <li><a routerLink="">Current Jobs <span class="glyphicon glyphicon-chevron-down"></span></a></li>
+            <li><a routerLink=""> <span class="glyphicon glyphicon-cog"></span><span class="glyphicon glyphicon-chevron-down"></span></a></li>
+            <li><a routerLink=""> <span class="	glyphicon glyphicon-user"></span><span class="glyphicon glyphicon-chevron-down"></span></a></li>
+            
+          </ul>
+
+        </div>
+      </div>
+</div>

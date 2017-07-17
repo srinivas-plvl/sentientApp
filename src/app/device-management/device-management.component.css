@@ -1,0 +1,134 @@
+.navbar-inverse {
+    background-color: #e5e5e5;
+    color: #000;
+    min-height: 32px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #000;
+}
+
+.form-horizontal .control-label {
+    text-align: left;
+    margin-bottom: 0;
+    padding-top: 9px;
+    white-space: nowrap;
+}
+.bs-component .row  .col-md-3{
+    width:30% !important;
+}
+.col-lg-8 {
+    width: 64.666667% !important;
+    float: right;
+}
+
+.col-lg-12 .btn {
+    border-radius: 4px;
+    margin-top: 25px;
+}
+.btn {
+    border-radius: 4px;
+   
+}
+.nav-tabs > li > a {
+    background-color: #fff;
+    color: #d98c15;
+}
+.active a {
+   color: #000 !important;
+}
+    .table .radio,
+.table .checkbox {
+  position: relative;
+  height: 20px;
+  display: block;
+  width: 20px;
+  padding: 0px 0px;
+  margin: 0px 5px;
+  text-align: center;
+}
+.table .radio .icons,
+.table .checkbox .icons {
+  left: 5px;
+}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  padding: 16px 12px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 14px;
+}
+.table > thead > tr > th {
+  border-bottom-width: 1px;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #9A9A9A;
+  font-weight: 400;
+  padding-bottom: 5px;
+}
+
+.table > thead > tr > td {
+  font-size: 13px;
+}
+.table > thead  {
+ background: #eee;
+}
+.table > thead > tr > th a {
+ color: #000;
+ font-weight: bold;
+}
+.table .td-actions .btn {
+  opacity: 0.36;
+  filter: alpha(opacity=36);
+}
+
+.table .td-actions-ctm .btn {
+  opacity: 1;
+  filter: alpha(opacity=36);
+}
+
+.table .td-actions .btn.btn-xs {
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.table .td-actions {
+  min-width: 90px;
+}
+.table > tbody > tr {
+  position: relative;
+}
+.table > tbody > tr:hover .td-actions .btn {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+.glyphicon-ok{
+    border-radius: 25px;
+    font-size: 8px;
+    padding: 8px 10px;
+}
+.glyphicon-remove{
+border-radius: 25px;
+    font-size: 8px;
+    padding: 8px 10px;
+}
+.nav-tabs {
+     margin-bottom: 0px;
+}
+
+.navbar-inverse .navbar-right a{
+    color: #000 !important;
+    font-weight: bold;
+     font-size: 12px;
+       padding: 6px 10px;
+}
+.serial {
+  color: #d98c15;
+}
+
+.navbar-inverse .navbar-right a:hover {
+    background: #d98c15;
+}

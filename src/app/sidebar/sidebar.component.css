@@ -1,0 +1,12 @@
+.sidebar{
+        border: solid 1px #dadada;
+    padding: 8px 2px;
+    margin: 4px 8px;
+}
+.sidebar-search{
+    width: 100%;
+        border: solid 1px #dadada;
+    padding: 8px 12px;
+    margin: 4px 8px;
+}
+  
